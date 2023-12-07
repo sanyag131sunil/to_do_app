@@ -97,7 +97,7 @@ class _HomePageState extends State<HomePage> {
                       builder: (context) => const HomePageContent()),
                 );
               },
-              child: Text('Tap here to start making your TO DO LIST'),
+              child: Text('CLICK ME'),
             ),
           ],
         ),
